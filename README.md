@@ -1,2 +1,3 @@
-# learning git
-I'm trying to understand git
+# learning to do git and github
+LOL XD
+I'm just testing
